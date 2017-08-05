@@ -24,4 +24,22 @@
 
 /* Posititoning Classes */
 
+#grass {
+  float: left;
+  width: 66%;
+}
 
+#shoe-archive {
+  float: right;
+  width: 33%;
+}
+
+.boop {
+  display: inline-block;
+  margin-top: 10px;
+  width: 33%;
+}
+
+.border-right {
+  display: inline-block;
+}
